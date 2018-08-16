@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.celestial</groupId>
-    <artifactId>DBAnalyzerCore</artifactId>
+    <artifactId>dbanalyzer-core-d2-2</artifactId>
     <version>1.0</version>
 
     <name>DBAnalyzer Core</name>

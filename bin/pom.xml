@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.celestial</groupId>
-    <artifactId>DBAnalyzerCore</artifactId>
-    <version>1.0</version>
-
+    <artifactId>dbanalyzer-core-d2-2</artifactId>
+     <version>1.0</version>
+ 
     <name>DBAnalyzer Core</name>
     <!-- FIXME change it to the project's website -->
     <url>http://deliveringtechnology2018.atlassian.net</url>
