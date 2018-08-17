@@ -40,7 +40,7 @@ public class UserHandler
         try
         {
             MainUnit.log("On Entry -> UserHandler.loadFromDB()");
-            String sbQuery = "select * from db_grad_1917.users where user_id=? and user_pwd=?";
+            String sbQuery = "select * from db_grad_cs_1917.users where user_id=? and user_pwd=?";
             System.out.println(theConnection);
             PreparedStatement stmt = theConnection.prepareStatement(sbQuery);            
             stmt.setString(1, userid);
